@@ -1,5 +1,5 @@
 # *Hello There*
-I'm nicolas, a webdev student currently going through the foundations course of The Odin Project.
+I'm nicolas, a webdev student currently going through The Odin Project course.
 
 ## Web Projects *(From most recent)*
 - **Calculator** [Demo](https://nicolasgsantana.github.io/calculator/) | [Code](https://github.com/nicolasgsantana/calculator)
