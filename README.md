@@ -2,6 +2,7 @@
 I'm nicolas, a webdev student currently going through The Odin Project course.
 
 ## Web Projects *(From most recent)*
+- **Tic Tac Toe** [Demo](https://nicolasgsantana.github.io/tic-tac-toe/) | [Code](https://github.com/nicolasgsantana/tic-tac-toe)
 - **Library** [Demo](https://nicolasgsantana.github.io/library/) | [Code](https://github.com/nicolasgsantana/library)
 - **Admin Dashboard** [Demo](https://nicolasgsantana.github.io/admin-dashboard/) | [Code](https://github.com/nicolasgsantana/admin-dashboard)
 - **Sign-up Form** [Demo](https://nicolasgsantana.github.io/odin-form/) | [Code](https://github.com/nicolasgsantana/odin-form)
