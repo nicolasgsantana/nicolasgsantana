@@ -1,6 +1,6 @@
 # *Hello There*
 
-Glad to be back
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZzeWpybzU0Zm9yanF2c2prcTM5bXdsN3U0cDZ6NG9rd2txYnV4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JTFsZmnTR1Rs1JFVP/giphy.webp)
 
 ## Web Projects *(From most recent)*
 - **Tic Tac Toe** [Demo](https://nicolasgsantana.github.io/tic-tac-toe/) | [Code](https://github.com/nicolasgsantana/tic-tac-toe)
