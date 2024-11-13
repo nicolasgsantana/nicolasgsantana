@@ -1,5 +1,6 @@
 # *Hello There*
-I'm nicolas, a webdev student currently going through The Odin Project course.
+
+Glad to be back
 
 ## Web Projects *(From most recent)*
 - **Tic Tac Toe** [Demo](https://nicolasgsantana.github.io/tic-tac-toe/) | [Code](https://github.com/nicolasgsantana/tic-tac-toe)
